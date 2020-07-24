@@ -8,11 +8,12 @@
  * Watch the livestream video:
  * https://youtu.be/u9VT32q7ero 
  * 
+ *
  */
 
 // set the line sensor thresholds
 int light_threshold = 650;
-int dark_threshold = 400;
+int dark_threshold = 300;
 int lineNumber; // stores the line sensor value
 int lineSensorPin = 4;
 
