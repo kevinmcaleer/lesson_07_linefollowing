@@ -11,7 +11,7 @@
  */
 
 // set the line sensor thresholds
-int light_threshold = 600;
+int light_threshold = 650;
 int dark_threshold = 400;
 int lineNumber; // stores the line sensor value
 int lineSensorPin = 4;
@@ -27,7 +27,7 @@ int motor_A_speed = 10; // official Arduino Motor Shield uses D3
 int motor_B_speed = 11; // official Arduino Motor Shield uses D11
 
 // set the time between motor on and motor off
-int wait_in_milliseconds = 50;
+int wait_in_milliseconds = 10;
 
 /////////////////////////////////////
 /*
