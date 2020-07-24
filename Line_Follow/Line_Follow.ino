@@ -1,6 +1,10 @@
 /*
  * Kevin McAleer
  * 24 July 2020 
+ * 
+ * Line Following Code
+ * See Lesson 07 for the full tutorial
+ * https://www.smarsfan.com/play/lessons/lesson_07_linefollow
  * Watch the livestream video:
  * https://youtu.be/u9VT32q7ero 
  * 
