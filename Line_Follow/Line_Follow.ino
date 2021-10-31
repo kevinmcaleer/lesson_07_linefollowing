@@ -49,6 +49,8 @@ void forward() {
   analogWrite(motor_A_speed, 255);
   analogWrite(motor_B_speed, 255);
 
+  analogWrite(motor_A_speed);
+
   // wait
   delay(wait_in_milliseconds);
 
